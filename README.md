@@ -31,6 +31,9 @@ Open Claude Code and navigate to your Obsidian vault folder. Copy the full conte
 - Save itself as `CLAUDE.md` — the schema it reads every session
 - Create empty `index.md` and `log.md` files, ready for your first ingest
 
+<img width="1081" height="722" alt="image" src="https://github.com/user-attachments/assets/4090bb82-c157-430e-92e2-03409700d59a" />
+
+
 **Step 4 — Install Obsidian plugins**
 
 In Obsidian, go to Settings → Community Plugins and install:
